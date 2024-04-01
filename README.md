@@ -1,3 +1,5 @@
 Formulário e Site de vendas fictícios adicionados
 
-Formulário falta apenas mudar o link do css para ficar de acordo com o freecodecamp
+Todos os dois estão de acordo com o freecodecamp.
+
+Falta implementar apenas o Potfólio!
