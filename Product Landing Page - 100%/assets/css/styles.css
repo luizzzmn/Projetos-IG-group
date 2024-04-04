@@ -10,10 +10,15 @@ html {
     scroll-behavior: smooth;
   }
 
+:root {
+    --primary-color: #7469B6;
+    --secondary-color: #E1AFD1;
+    --text-color: #FFEFE6;
+}
+
 body {
     background: #FFE6E6;
-    color:#7469B6
-    
+    color: var(--text-color);    
 }
 
 header #nav-bar{
@@ -23,8 +28,8 @@ header #nav-bar{
     width: 100%;
     top: 0;
     left: 0;
-    background-color: #E1AFD1;
-    color: white;
+    background-color: var(--secondary-color);
+    color: var(--text-color);
     font-family: 'Exo 2', sans-serif;
     padding: 1em;
     z-index: 10;
