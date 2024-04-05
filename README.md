@@ -1,5 +1,3 @@
-Formulário e Site de vendas fictícios adicionados
+Todos os sites prontos e de acordo com o freecodecamp!
 
-Todos os dois estão de acordo com o freecodecamp.
-
-Potfólio implementado e de acordo com o freecodecamp!
+Versões finais dos sites: Survey Form - 100%, Landing Page - 100%, Portfólio - Versão Final
